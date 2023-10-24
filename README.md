@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hirok Roy Rahul</h1>
-<h3 align="center">A passionate Python developer from Bangladesh</h3>
+<h3 align="center">A passionate developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirokr&label=Profile%20views&color=0e75b6&style=flat" alt="hirokr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirokr" alt="hirokr" /></a> </p>
 
 - 🔭 I’m currently working on [Tick Tak Toe](https://github.com/hirokr/Tic_Tak_toe)
 
