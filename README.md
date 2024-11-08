@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirokr&label=Profile%20views&color=0e75b6&style=flat" alt="hirokr" /> </p>
 
-- 🔭 I’m currently working on [Tick Tak Toe](https://github.com/hirokr/Tic_Tak_toe)
+- 🔭 I’m currently working on [Web Application on Generative AI](https://github.com/hirokr)
 
-- 🌱 I’m currently learning **Django, Tensorflow, Pytorch and Python Automation**
+- 🌱 I’m currently learning **Deep Learing, Tensorflow, and Python Automation**
 
 - 💬 Ask me about **Cpp and Python**
 
