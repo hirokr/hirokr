@@ -1,31 +1,154 @@
-<h1 align="center">Hi 👋, I'm Hirok Roy Rahul</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+````md
+<h1 align="center">Hi, I'm Hirok Roy Rahul 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirokr&label=Profile%20views&color=0e75b6&style=flat" alt="hirokr" /> </p>
+<h3 align="center">
+  AI Engineer in progress · Full-Stack Developer · Machine Vision & Research Enthusiast
+</h3>
 
-- 🔭 I’m currently working on [Web Application on Generative AI](https://github.com/hirokr)
-
-- 🌱 I’m currently learning **Deep Learing, Tensorflow, and Python Automation**
-
-- 💬 Ask me about **Cpp and Python**
-
-- 📫 How to reach me **work.hrr25@gmail.com**
-
-- ⚡ Fun fact **Learning is Fun**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hirokrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hirokrr" height="30" width="40" /></a>
-<a href="https://kaggle.com/hirokrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hirokrr" height="30" width="40" /></a>
-<a href="https://fb.com/hirokrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hirokrr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hirokrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hirokrr" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hrrahul0625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hrrahul0625" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hrrahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hrrahul" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://hirokrr.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/hirokrr">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:work.hrr25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/hirokr">
+    <img src="https://img.shields.io/badge/GitHub-hirokr-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-powered+products+from+scratch;Researching+multimodal+deepfake+detection;Developing+full-stack+systems+with+Next.js+%26+Python;Exploring+computer+vision+for+robotics+and+healthcare" alt="Typing SVG" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirokr&show_icons=true&locale=en&layout=compact" alt="hirokr" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirokr&" alt="hirokr" /></p>
+## 🧭 About Me
+
+I am **Hirok Roy Rahul**, a final-year **Computer Science and Engineering** student at **BRAC University, Dhaka**, building at the intersection of **AI research, full-stack engineering, machine vision, and automation**.
+
+I enjoy turning ideas into working systems, whether that means training ML pipelines, building full-stack AI products, designing automation workflows, or experimenting with computer vision for real-world robotics.
+
+```txt
+Current focus:
+├── AI / ML Engineering
+├── Full-Stack AI Products
+├── Multimodal Deepfake Detection
+├── Computer Vision for AUV Robotics
+├── Agentic AI and Automation
+└── Research-to-Product Thinking
+````
+
+---
+
+## 🚀 What I’m Working On
+
+* 🧠 **ExplainFake** — multimodal deepfake detection with explainable audio-visual reasoning
+* ✂️ **InstructPrune** — adaptive visual token pruning for Vision-Language Models
+* 🛍️ **Tryora** — AI-powered virtual try-on platform with 3D/product intelligence
+* 📊 **AI-Powered Telecom Churn Prevention** — churn-risk ranking and retention analytics
+* 🌊 **BRACU DUBURI AUV** — machine vision for underwater object detection and navigation
+* 🤖 **Korviora** — AI automation ideas for chatbots, e-commerce, and customer support systems
+
+---
+
+## 🛠️ Tech Stack
+
+### AI / ML / Data
+
+**Python · PyTorch · TensorFlow · Scikit-Learn · OpenCV · Pandas · NumPy · spaCy · LangChain · LangGraph**
+
+### Full-Stack Engineering
+
+**TypeScript · JavaScript · Next.js · React · React Native · Node.js · Express · FastAPI · Tailwind CSS**
+
+### Databases, Cloud & Tools
+
+**MongoDB · MySQL · PostgreSQL · Supabase · Prisma · Docker · Git · GitHub · Azure · AWS · Figma**
+
+### Systems & Hardware
+
+**C · C++ · Bash · Linux · Arduino · Embedded Systems · Cisco Packet Tracer**
+
+---
+
+## 🌟 Featured Projects
+
+| Project                                                                                                  | What it does                                                                                     | Stack                                               |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
+| [**Tryora**](https://github.com/hirokr/Tryora)                                                           | AI-powered virtual try-on platform for e-commerce with image enhancement and 3D model generation | Next.js, Node.js, BullMQ, Prisma, Claid AI, Tripo3D |
+| [**AI-Powered Telecom Churn Prevention**](https://github.com/hirokr/AI-Powered-Telecom-Churn-Prevention) | ML system that identifies high-risk telecom customers and supports targeted retention actions    | Python, ML, EDA, LightGBM, CatBoost                 |
+| [**FynmanAI**](https://github.com/hirokr/fynmanAI)                                                       | AI-powered EdTech project built for hackathons and learning support                              | Next.js, Node.js, OpenAI, WhisperAI, Prisma         |
+| [**World Cup 2026 Prediction Pipeline**](https://github.com/hirokr/World-Cup-2026-Predictions)           | Predicts FIFA World Cup 2026 fixtures using ML models and Monte Carlo simulation                 | Python, Scikit-Learn, Pandas                        |
+| **ExplainFake**                                                                                          | Undergraduate thesis on explainable multimodal deepfake detection                                | Computer Vision, Audio AI, XAI                      |
+| **InstructPrune**                                                                                        | Adaptive visual token pruning for efficient Vision-Language Model inference                      | PyTorch, Hugging Face, VLMs                         |
+
+---
+
+## 🏆 Hackathons & Competitions
+
+* 🥇 **Finalist** — Infinity AI BuildFest 2026
+* 🥇 **Finalist** — Outskill AI Builders Hackathon
+* 🤖 Participant — Band of Agents Hackathon
+* ⚡ Enrolled — AMD Developer Hackathon: ACT II
+* 🧩 Kaggle — ARC Prize 2026 Paper Track
+* ⚽ Kaggle — Soccer Feature Engineering Hackathon
+* 🛰️ Kaggle — Hyperspectral Object Tracking Challenge 2026
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hirokr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Hirok's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirokr&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirokr&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/hirokrr">
+    <img src="https://img.shields.io/badge/LinkedIn-hirokrr-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://kaggle.com/hirokrr">
+    <img src="https://img.shields.io/badge/Kaggle-hirokrr-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/hrrahul">
+    <img src="https://img.shields.io/badge/LeetCode-hrrahul-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/hrrahul0625">
+    <img src="https://img.shields.io/badge/Codeforces-hrrahul0625-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/hirokrr">
+    <img src="https://img.shields.io/badge/HackerRank-hirokrr-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## ✨ A Little More
+
+```txt
+I like building from zero.
+I like research that becomes usable.
+I like systems that are clean, practical, and explainable.
+```
+
+Outside code and research, I enjoy **playing guitar**, **traveling**, and **cooking**.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hirokr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<h3 align="center">Learning is fun. Building is better. 🚀</h3>
+```
+::: ​​
